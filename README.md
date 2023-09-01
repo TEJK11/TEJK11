@@ -1,7 +1,6 @@
 # 💫 About Me:
 Im currently working on AI and ML, practicing competitive programming
 
-# My GIF
 ![](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
 
 
