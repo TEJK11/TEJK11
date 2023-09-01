@@ -2,7 +2,7 @@
 Im currently working on AI and ML, practicing competitive programming
 
 # My GIF
-https://tenor.com/view/pixels-neon-old-80s-hacker-gif-21156226
+![](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)
 
 
 # 💻 Tech Stack:
